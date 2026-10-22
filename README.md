@@ -1,0 +1,1 @@
+Audited a paid-media dashboard that reported conversion rate up 4.0% → 4.4% when it had actually fallen 4.4% → 2.7%. The error was an average of channel rates hiding a shift of traffic into the weakest channel (Simpson’s paradox), which cost about 280 bookings in one quarter.
